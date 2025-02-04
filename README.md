@@ -1,28 +1,48 @@
 <!-- BLOG-POST-LIST:START -->
 
-<h1 style="text-align:center; color:rgb(92,184,255)"> /// Welcome my profile </h1>
+<h1 align="center"> Emre Kayal </h1>
+<p align="center">
+  <a href="https://github.com/ByaCherX" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/emre-kayal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+</p>
 
+<h2 align="center"><strong>Tech Stack</strong></h2>
 
-<h1 align="center" style="color:#7F8C99"> Stats </h1>
+Languages:
+
+![Python](https://img.shields.io/badge/python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-000000?style=flat&logo=typescript)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus)
+![Html](https://img.shields.io/badge/html5-000000?style=flat&logo=html5)
+![Css](https://img.shields.io/badge/css-000000?style=flat&logo=css)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=sql)
+
+Frameworks:
+
+![Nodejs](https://img.shields.io/badge/NodeJS-000000?style=flat&logo=node.js)
+![Nestjs](https://img.shields.io/badge/Nestjs-000000?style=flat&logo=nestjs)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+
+Other abilities:
+
+![MySql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariadb)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonwebservices)
+![Numpy](https://img.shields.io/badge/Numpy-000000?style=flat&logo=numpy)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
+![Test](https://img.shields.io/badge/Test-000000?style=flat&logo=jest)
+![CI](https://img.shields.io/badge/CI-000000?style=flat&logo=ci)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu)
 
 <span align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ByaCherX&theme=react&date_format=j%20M%5B%20Y%5D&stroke=FFFFFF&fire=DD7A0E&currStreakNum=DD7A0E)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByaCherX&show_icons=true&theme=nord )](https://github.com/anuraghazra/github-readme-stats)
-</span>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByaCherX&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h1 style="color:#7F8C99">Repositories </h1>
 
 <div>
 <a href="https://github.com/ByaCherX/rds-docs">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ByaCherX&repo=nest-backend&theme=nord" />
-</a>
-<a href="https://github.com/ByaCherX/node">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ByaCherX&repo=node&theme=nord" />
 </a>
 </div>
 
