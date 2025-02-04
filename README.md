@@ -19,7 +19,7 @@
 
 <div>
 <a href="https://github.com/ByaCherX/rds-docs">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ByaCherX&repo=rds-docs&theme=nord" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ByaCherX&repo=nest-backend&theme=nord" />
 </a>
 <a href="https://github.com/ByaCherX/node">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ByaCherX&repo=node&theme=nord" />
