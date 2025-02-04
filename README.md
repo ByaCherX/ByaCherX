@@ -21,12 +21,12 @@ Languages:
 
 Frameworks:
 
-![Nodejs](https://img.shields.io/badge/NodeJS-000000?style=flat&logo=node.js)
 ![Nestjs](https://img.shields.io/badge/Nestjs-000000?style=flat&logo=nestjs)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
 
 Other abilities:
 
+![Nodejs](https://img.shields.io/badge/NodeJS-000000?style=flat&logo=node.js)
 ![MySql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariadb)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonwebservices)
