@@ -1,9 +1,9 @@
 <!-- BLOG-POST-LIST:START -->
 
-<h1 style="text-align:center; color:rgb(92,184,255)">Welcome my profile</h1>
+<h1 style="text-align:center; color:rgb(92,184,255)"> /// Welcome my profile </h1>
 
 
-<h1 style="text-align:center; color:#7F8C99">-------------------- Stats --------------------</h1>
+<h1 align="center" style="color:#7F8C99"> Stats </h1>
 
 <span align="center">
 
@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByaCherX&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1 style="text-align:center; color:#7F8C99">-------------------- Repositories --------------------</h1>
+<h1 style="color:#7F8C99">Repositories </h1>
 
 <div>
 <a href="https://github.com/ByaCherX/rds-docs">
