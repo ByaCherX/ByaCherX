@@ -44,6 +44,9 @@ Other abilities:
 <a href="https://github.com/ByaCherX/rds-docs">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ByaCherX&repo=nest-backend&theme=nord" />
 </a>
+<a href="https://github.com/ByaCherX/rds-docs">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ByaCherX&repo=Cpython-Binding&theme=nord" />
+</a>
 </div>
 
 
